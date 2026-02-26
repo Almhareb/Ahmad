@@ -21,8 +21,10 @@ public class ArrayMethode {
             int[] kopie = werte.clone();
             kopie[3]=100;
             System.out.println(werte[3]);
+            system.out.printn("hallo welt");
 
 
         }
         }
     }
+
